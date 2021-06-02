@@ -5083,12 +5083,6 @@
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
-      "Name": "DummyEnemy",
-      "Price": 10.0,
-      "ID": 1004,
-      "Mod": "ThoriumMod.ThoriumMod"
-    },
-    {
       "Name": "EarthenBat",
       "Price": 188.0,
       "ID": 1005,
