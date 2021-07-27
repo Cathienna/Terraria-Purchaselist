@@ -1,12 +1,6 @@
 {
   "List": [
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "IronPickaxe",
       "Price": 2000.0,
       "ID": 1,
@@ -3998,25 +3992,25 @@
     },
     {
       "Name": "Red'sHelmet",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 666,
       "Mod": "Vanilla"
     },
     {
       "Name": "Red'sBreastplate",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 667,
       "Mod": "Vanilla"
     },
     {
       "Name": "Red'sLeggings",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 668,
       "Mod": "Vanilla"
     },
     {
       "Name": "Fish",
-      "Price": 100000.0,
+      "Price": 1000.0,
       "ID": 669,
       "Mod": "Vanilla"
     },
@@ -16580,31 +16574,31 @@
     },
     {
       "Name": "SolarFlareHelmet",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 2763,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarFlareBreastplate",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 2764,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarFlareLeggings",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 2765,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarTabletFragment",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 2766,
       "Mod": "Vanilla"
     },
     {
       "Name": "SolarTablet",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 2767,
       "Mod": "Vanilla"
     },
@@ -16633,87 +16627,15 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "VortexPickaxe",
       "Price": 250000.0,
       "ID": 2776,
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "NebulaPickaxe",
       "Price": 250000.0,
       "ID": 2781,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
       "Mod": "Vanilla"
     },
     {
@@ -17284,12 +17206,6 @@
       "Name": "InfluxWaver",
       "Price": 500000.0,
       "ID": 2880,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
       "Mod": "Vanilla"
     },
     {
@@ -19639,12 +19555,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "HardenedEbonsandBlock",
       "Price": 10.0,
       "ID": 3274,
@@ -20041,48 +19951,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "DesertFossil",
       "Price": 10.0,
       "ID": 3347,
@@ -20288,19 +20156,19 @@
     },
     {
       "Name": "StardustHelmet",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 3381,
       "Mod": "Vanilla"
     },
     {
       "Name": "StardustPlate",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 3382,
       "Mod": "Vanilla"
     },
     {
       "Name": "StardustLeggings",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 3383,
       "Mod": "Vanilla"
     },
@@ -20770,30 +20638,6 @@
       "Name": "LuminiteBrick",
       "Price": 10.0,
       "ID": 3461,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
       "Mod": "Vanilla"
     },
     {
@@ -21536,19 +21380,19 @@
     },
     {
       "Name": "Loki'sHelmet",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 3589,
       "Mod": "Vanilla"
     },
     {
       "Name": "Loki'sBreastplate",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 3590,
       "Mod": "Vanilla"
     },
     {
       "Name": "Loki'sGreaves",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 3591,
       "Mod": "Vanilla"
     },
@@ -22501,12 +22345,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "CogWall",
       "Price": 10.0,
       "ID": 3751,
@@ -23083,36 +22921,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "TomeofInfiniteWisdom",
       "Price": 50000.0,
       "ID": 3852,
@@ -23164,18 +22972,6 @@
       "Name": "TreasureBag",
       "Price": 10.0,
       "ID": 3860,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
       "Mod": "Vanilla"
     },
     {
@@ -30908,13 +30704,13 @@
     },
     {
       "Name": "SacredHelmet",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 5151,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "SacredLeggings",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 5152,
       "Mod": "ThoriumMod.ThoriumMod"
     },
@@ -38450,43 +38246,43 @@
     },
     {
       "Name": "AncientBulbChestplate",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6408,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "AncientBulbHood",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6409,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "AncientBulbLeggings",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6410,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "AncientDragonBreastplate",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6411,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "AncientDragonGreaves",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6412,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "AncientDragonMask",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6413,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "AncientObsidianHelmet",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6414,
       "Mod": "ThoriumMod.ThoriumMod"
     },
@@ -38510,37 +38306,37 @@
     },
     {
       "Name": "AncientObsidianChestguard",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6418,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "AncientObsidianGreaves",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6419,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "GlitteringChestplate",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6420,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "GlitteringGreaves",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6421,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "GlitteringHelmet",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6422,
       "Mod": "ThoriumMod.ThoriumMod"
     },
     {
       "Name": "MeteorMask",
-      "Price": 10.0,
+      "Price": 10000.0,
       "ID": 6423,
       "Mod": "ThoriumMod.ThoriumMod"
     },
